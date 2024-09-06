@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">FERRAMENTAS QUE UTILIZO</h2>
+<h2 align="left">FERRAMENTAS QUE USO</h2>
 
 ###
 
